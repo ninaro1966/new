@@ -1,0 +1,15 @@
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.csproj.AssemblyReference.cache
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.AssemblyInfoInputs.cache
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.AssemblyInfo.cs
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.csproj.CoreCompileInputs.cache
+C:\Users\НО\Desktop\august\september\november\bin\Debug\net6.0\november.exe
+C:\Users\НО\Desktop\august\september\november\bin\Debug\net6.0\november.deps.json
+C:\Users\НО\Desktop\august\september\november\bin\Debug\net6.0\november.runtimeconfig.json
+C:\Users\НО\Desktop\august\september\november\bin\Debug\net6.0\november.dll
+C:\Users\НО\Desktop\august\september\november\bin\Debug\net6.0\november.pdb
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.dll
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\refint\november.dll
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.pdb
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\november.genruntimeconfig.cache
+C:\Users\НО\Desktop\august\september\november\obj\Debug\net6.0\ref\november.dll
