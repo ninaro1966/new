@@ -1,0 +1,15 @@
+C:\Users\НО\Desktop\august\september\october\bin\Debug\net6.0\october.exe
+C:\Users\НО\Desktop\august\september\october\bin\Debug\net6.0\october.deps.json
+C:\Users\НО\Desktop\august\september\october\bin\Debug\net6.0\october.runtimeconfig.json
+C:\Users\НО\Desktop\august\september\october\bin\Debug\net6.0\october.dll
+C:\Users\НО\Desktop\august\september\october\bin\Debug\net6.0\october.pdb
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.csproj.AssemblyReference.cache
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.AssemblyInfoInputs.cache
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.AssemblyInfo.cs
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.csproj.CoreCompileInputs.cache
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.dll
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\refint\october.dll
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.pdb
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\october.genruntimeconfig.cache
+C:\Users\НО\Desktop\august\september\october\obj\Debug\net6.0\ref\october.dll
